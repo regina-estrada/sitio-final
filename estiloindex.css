@@ -1,0 +1,31 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: justify;
+}
+
+h1 {
+	font-family: 'Prata', serif;
+	text-align:center;
+	color: #FFFFFF;
+}
+
+h2 {
+	color:#A01249;
+}
+
+header {
+	text-align: right;
+}
+
+div {
+	background-color: #A01249;
+}
+
+h4 {
+	color: #FFFFFF;
+}
+
+h5 {	
+	color: #FFFFFF;
+	text-align: center;
+}
